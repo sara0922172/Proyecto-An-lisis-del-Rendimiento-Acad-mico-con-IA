@@ -70,3 +70,6 @@ El rendimiento académico depende principalmente del tiempo de estudio, asistenc
 - Aplicar el modelo a datos reales.
 - Usar más variables.
 - Probar otras técnicas de minería de datos.
+
+## Video
+- https://youtu.be/E5R1cnV90wI
